@@ -21,7 +21,7 @@
     "@angular/router": "~9.0.3",
     "angular-datatables": "^6.0.1",
     "body-parser": "^1.19.0",
-    "bootstrap": "4.1.1",
+    "bootstrap": "4.3.1",
     "cors": "^2.8.5",
     "datatables.net": "^1.10.20",
     "express": "^4.17.1",
