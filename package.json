@@ -25,7 +25,7 @@
     "cors": "^2.8.5",
     "datatables.net": "^1.10.20",
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
     "ngx-bootstrap": "^5.5.0",
